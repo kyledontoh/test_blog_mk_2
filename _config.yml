@@ -52,5 +52,5 @@ twitter_url: https://twitter.com/OpenNYForAll
 google_analytics:
 
 # The following settings are NECESSARY for the Prologue theme to run:
-theme: jekyll-theme-cayman
+theme: jekyll-theme-prologue
 collections: [sections]
