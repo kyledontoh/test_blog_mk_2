@@ -1,6 +1,9 @@
 ---
+title: News & Press
+subtitle: Open New York in the News
 layout: "page"
-title: "Press"
+icon: fas fa-newspaper
+order: 3
 ---
 
 # ONY in the News
